@@ -36,9 +36,9 @@
           Pelaksana P2TL
         </h3>
       </div>
-      <p class="text-sm text-gray-500 mb-2">PT. Citacontrac (Lenteng Agung) • 2024</p>
+      <p class="text-sm text-gray-500 mb-2">PT. Citacontrac (Lenteng Agung) • 2025</p>
       <p class="text-gray-700 text-justify leading-relaxed">
-        Setelah menyelesaikan PKL, saya bergabung dengan tim P2TL di PT. Citacontrac yang bekerja sama dengan PLN.
+        Setelah menyelesaikan Pendidikan, saya bergabung dengan tim P2TL di PT. Citacontrac yang bekerja sama dengan PLN.
         Tugas saya termasuk mendampingi petugas dalam pengecekan dan pengamanan instalasi listrik di rumah pelanggan.
         Di sini saya belajar pentingnya komunikasi, keselamatan kerja, serta disiplin lapangan.
       </p>
