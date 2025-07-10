@@ -11,9 +11,7 @@
     <!-- PKL AONE HOTEL -->
     <div class="bg-white shadow-xl rounded-xl p-6 border-l-4 border-blue-600">
       <div class="flex items-center gap-3 mb-2">
-        <span class="inline-block bg-blue-600 text-white text-xs font-semibold px-3 py-1 rounded-full">
-          PKL
-        </span>
+       
         <h3 class="text-xl md:text-2xl font-semibold text-blue-800">
           Asisten Teknisi Engineering
         </h3>
@@ -29,9 +27,7 @@
     <!-- P2TL Citacontrac -->
     <div class="bg-white shadow-xl rounded-xl p-6 border-l-4 border-green-600">
       <div class="flex items-center gap-3 mb-2">
-        <span class="inline-block bg-green-600 text-white text-xs font-semibold px-3 py-1 rounded-full">
-          P2TL
-        </span>
+      
         <h3 class="text-xl md:text-2xl font-semibold text-green-800">
           Pelaksana P2TL
         </h3>
